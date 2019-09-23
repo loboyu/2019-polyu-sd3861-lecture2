@@ -1,1 +1,1 @@
-Hello world!
+Lecture 2
